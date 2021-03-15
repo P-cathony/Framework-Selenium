@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<root>
+    <parametros>
+        <navegador>chrome</navegador>
+        <linkPaginaWeb>https://www.filmaffinity.com/es/tours.php</linkPaginaWeb>
+        <usuario>Selenium</usuario>
+        <contrasena>pass</contrasena>
+        <cerrarNavegador>false</cerrarNavegador>
+    </parametros>
+</root>
